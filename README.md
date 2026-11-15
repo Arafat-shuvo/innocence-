@@ -1,5 +1,8 @@
 # Global Professor Database – PhD & Research Opportunities
 
+In future I want to add professors for Masters program 
+
+
 This repository contains a curated database of professors and researchers from universities across **Europe, Asia, and the United States (USA)**.
 
 The database focuses on professors working in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Medical Image Analysis, and related research fields.
